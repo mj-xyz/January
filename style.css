@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'new_fontregular';
+  src: url('/Users/MorganJones/Desktop/INDEX SPACE-Coding Course/Week 1/Homepage.html/typefaces/lefty-webfont.woff2') format('woff2'),
+  url('/Users/MorganJones/Desktop/INDEX SPACE-Coding Course/Week 1/Homepage.html/typefaces/lefty-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+nav{  
+  background-color: none;
+  width: 100%;
+}
+
+li{
+  list-style: none;
+  display: inline;
+}
+
+nav a{
+  position: relative;
+  color: #002AF7;
+  text-decoration: none;
+  line-height: 0px;
+  font-size:30px;
+}
+
+nav a:hover {
+  text-decoration: none;
+}
+
+body{
+ padding:30px;
+ margin-bottom: 50px;
+ text-align: center;
+ font-family: 'new_fontregular';
+ color: #002FA7;
+ background-color: floralwhite;
+ cursor: url('/Users/MorganJones/Desktop/INDEX SPACE-Coding Course/Week 1/Homepage.html/images/cursor1.png'), auto;
+}
+
+  body a {
+    display: block;
+    color: #002fa7;
+    padding: 0px;
+    text-decoration: none;   
+  }
+
+ #header{
+    text-align: center;
+    font-family: 'new_fontregular';
+    padding: 0px;
+    font-size:60px;
+    color: #002FA7;
+    background-color: none;
+ } 
+  header a {
+    display: block;
+    color: #002fa7;
+    text-align: center;
+    font-size:100px;
+    padding: 0px;
+    text-decoration: none;
+    }
+
+ .footer{
+    clear: both;
+    }
+  
+
+
+
