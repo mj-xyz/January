@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'new_fontregular';
-  src: url('/Users/MorganJones/Desktop/INDEX SPACE-Coding Course/Week 1/Homepage.html/typefaces/lefty-webfont.woff2') format('woff2'),
-  url('/Users/MorganJones/Desktop/INDEX SPACE-Coding Course/Week 1/Homepage.html/typefaces/lefty-webfont.woff') format('woff');
+  src: url('/Homepage.html/typefaces/lefty-webfont.woff2') format('woff2'),
+  url('/Homepage.html/typefaces/lefty-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -35,7 +35,7 @@ body{
  font-family: 'new_fontregular';
  color: #002FA7;
  background-color: floralwhite;
- cursor: url('/Users/MorganJones/Desktop/INDEX SPACE-Coding Course/Week 1/Homepage.html/images/cursor1.png'), auto;
+ cursor: url('/Homepage.html/images/cursor1.png'), auto;
 }
 
   body a {
